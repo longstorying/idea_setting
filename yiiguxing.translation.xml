@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="aiXcoder is working in online mode. Do you want to switch to local service?" />
+      <item value="aiXcoder can work offline" />
       <item value="Api Key Location" />
       <item value="2020/3/5 10:22 Like it: Like this plugin? Donate or Give it a star Json Parser and spread the word (show balloon) 10:22 aiXcoder can work offline aiXcoder is working in online mode. Do you want to switch to local service? Yes No Learn More" />
-      <item value="aiXcoder is working in online mode. Do you want to switch to local service?" />
       <item value="Multiple Spring Boot run configurations were detected. Services allows to manage multiple run configurations at once." />
       <item value="Do you want to enable annotation processors? Enable" />
       <item value="Delete Provider" />
@@ -501,12 +502,11 @@
       <item value="max" />
       <item value="age" />
       <item value="max-age" />
-      <item value="whether to always mark the session cookie as secure." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12322" />
-        <entry key="ENGLISH" value="12241" />
+        <entry key="CHINESE" value="12324" />
+        <entry key="ENGLISH" value="12243" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
