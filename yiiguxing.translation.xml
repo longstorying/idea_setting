@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="get Instance" />
       <item value="Multiple Spring Boot run configurations were detected. Services allows to manage multiple run configurations at once." />
       <item value="aiXcoder is working in online mode. Do you want to switch to local service?" />
       <item value="aiXcoder can work offline" />
@@ -501,12 +502,11 @@
       <item value="Duration" />
       <item value="max" />
       <item value="age" />
-      <item value="max-age" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12324" />
-        <entry key="ENGLISH" value="12243" />
+        <entry key="CHINESE" value="12330" />
+        <entry key="ENGLISH" value="12249" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
