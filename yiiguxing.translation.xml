@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="Cannot find declaration to go to" />
       <item value="升级包控件下载进度信息" />
       <item value="Download Progress Info" />
       <item value="get Instance" />
@@ -501,12 +502,11 @@
       <item value="maximum Sessions" />
       <item value="USERCENTER SESSION ID" />
       <item value="SECONDS" />
-      <item value="Duration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12332" />
-        <entry key="ENGLISH" value="12251" />
+        <entry key="ENGLISH" value="12252" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
