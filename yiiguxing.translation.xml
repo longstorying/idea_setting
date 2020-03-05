@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="aiXcoder is working in online mode. Do you want to switch to local service?" />
       <item value="Multiple Spring Boot run configurations were detected. Services allows to manage multiple run configurations at once." />
       <item value="Do you want to enable annotation processors? Enable" />
       <item value="Delete Provider" />
@@ -501,7 +502,6 @@
       <item value="whether to always mark the session cookie as secure." />
       <item value="secure" />
       <item value="o use &quot;HttpOnly&quot; cookies for session cookies." />
-      <item value="whether to use &quot;HttpOnly&quot; cookies for session cookies." />
     </histories>
     <option name="languageScores">
       <map>
