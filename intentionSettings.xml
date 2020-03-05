@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Declaration/Create Test" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="Java/Refactorings/Introduce local variable" />
+    <ignoreAction name="Java/Declaration/Make method default" />
+  </component>
+</application>
