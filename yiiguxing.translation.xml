@@ -2,6 +2,18 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="Custom Exception" />
+      <item value="enumse" />
+      <item value="is Parallel" />
+      <item value="allocation Unify Code Enum" />
+      <item value="for Each Ordered" />
+      <item value="builder" />
+      <item value="Raw use of parameterized class 'Class'" />
+      <item value="Car Allocation Info" />
+      <item value="allocation" />
+      <item value="pro版" />
+      <item value="STANDARD VERSION" />
+      <item value="S 01_STANDARD VERSION" />
       <item value="Allocation Unify Code Enum" />
       <item value="Allocation" />
       <item value="豪华版" />
@@ -490,23 +502,11 @@
       <item value="persistent" />
       <item value="is Persistent" />
       <item value="tracking Modes" />
-      <item value="set Secure" />
-      <item value="Duration Unit" />
-      <item value="DEFAULT CLEANUP CRON" />
-      <item value="NOTIFY KEYSPACE EVENTS" />
-      <item value="The configure action to apply when no user defined ConfigureRedisAction bean is * present." />
-      <item value="ALWAYS" />
-      <item value="ON GET ATTRIBUTE" />
-      <item value="ON SET ATTRIBUTE" />
-      <item value="Sessions save mode. Determines how session changes are tracked and saved to the * session store." />
-      <item value="ON SAVE" />
-      <item value="IMMEDIATE" />
-      <item value="Sessions flush mode. Determines when session changes are written to the session * store." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12347" />
-        <entry key="ENGLISH" value="12273" />
+        <entry key="CHINESE" value="12358" />
+        <entry key="ENGLISH" value="12283" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
@@ -520,7 +520,7 @@
         <entry key="SPANISH" value="37" />
         <entry key="HUNGARIAN" value="5" />
         <entry key="ITALIAN" value="24" />
-        <entry key="HINDI" value="2" />
+        <entry key="HINDI" value="4" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
