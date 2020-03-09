@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="Allocation Unify Code" />
       <item value="Custom Exception" />
       <item value="enumse" />
       <item value="is Parallel" />
@@ -501,12 +502,11 @@
       <item value="the directory used to store session data." />
       <item value="persistent" />
       <item value="is Persistent" />
-      <item value="tracking Modes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12358" />
-        <entry key="ENGLISH" value="12283" />
+        <entry key="CHINESE" value="12359" />
+        <entry key="ENGLISH" value="12284" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
