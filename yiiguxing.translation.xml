@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="获取升级包控件信息" />
+      <item value="get Update Control Info" />
       <item value="get Remote Upgrade Info" />
       <item value="builder Remote Upgrade List" />
       <item value="upload Operation Result" />
@@ -500,13 +502,11 @@
       <item value="Authorization Request Repository" />
       <item value="authorization Request Base Uri" />
       <item value="Not injecting HSTS header since it did not match the requestMatcher org.springframework.security.web.header.writers.HstsHeaderWriter$SecureRequestMatcher@307cf96e" />
-      <item value="Did not match any media types" />
-      <item value="DefaultSavedRequest added to Session" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12401" />
-        <entry key="ENGLISH" value="12326" />
+        <entry key="CHINESE" value="12409" />
+        <entry key="ENGLISH" value="12334" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
