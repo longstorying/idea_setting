@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="count By Car Type And Version NO" />
+      <item value="allocation Codes Splice" />
+      <item value="splice" />
+      <item value="collect" />
+      <item value="Splice" />
+      <item value="拼接" />
+      <item value="S 01" />
+      <item value="'equals()' between objects of inconvertible types 'CarTypeEnum' and 'String'" />
+      <item value="T 03" />
       <item value="validate Format" />
       <item value="Vararg parameter must be the last in the list" />
       <item value="map-underscore-to-camel-case" />
@@ -493,20 +502,11 @@
       <item value="Calling Authentication entry point." />
       <item value="SecurityContext is empty or contents are anonymous - context will not be stored in HttpSession." />
       <item value="Default Saved Request" />
-      <item value="parse Scope" />
-      <item value="session Repository" />
-      <item value="Jdk Serialization Redis Serializer" />
-      <item value="default Max Inactive Interval" />
-      <item value="Delegating Index Resolver" />
-      <item value="Application Event Publisher" />
-      <item value="member" />
-      <item value="Bound Key Operations" />
-      <item value="Bound Geo Operations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12387" />
-        <entry key="ENGLISH" value="12312" />
+        <entry key="CHINESE" value="12397" />
+        <entry key="ENGLISH" value="12322" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
