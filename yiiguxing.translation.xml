@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="abbreviation" />
+      <item value="简称" />
+      <item value="Update Control Info" />
+      <item value="configuration Info" />
+      <item value="control Infos" />
       <item value="d Iff Info" />
       <item value="ivid Iff Info" />
       <item value="get Identical Car Type" />
@@ -497,16 +502,11 @@
       <item value="SPRING SECURITY CONTEXT" />
       <item value="namespace" />
       <item value="original Session Id" />
-      <item value="original Principal Name" />
-      <item value="original Last Access Time" />
-      <item value="cached" />
-      <item value="Redis Session" />
-      <item value="members" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12371" />
-        <entry key="ENGLISH" value="12296" />
+        <entry key="CHINESE" value="12379" />
+        <entry key="ENGLISH" value="12304" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
