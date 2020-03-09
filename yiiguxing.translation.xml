@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="validate Format" />
+      <item value="Vararg parameter must be the last in the list" />
+      <item value="map-underscore-to-camel-case" />
       <item value="Cannot resolve method 'getStoragePathIdentify' in 'CarAllocationInfo'" />
       <item value="'Optional.get()' without 'isPresent()' check Inspection info: Reports Optional.get() method calls without an earlier check that the optional has a value. If the optional is empty, calling Optional.get() will throw an exception." />
       <item value="'Optional.get()' without 'isPresent()' check" />
@@ -499,14 +502,11 @@
       <item value="member" />
       <item value="Bound Key Operations" />
       <item value="Bound Geo Operations" />
-      <item value="bound Geo Ops" />
-      <item value="ops For Hash" />
-      <item value="ops For Cluster" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12385" />
-        <entry key="ENGLISH" value="12310" />
+        <entry key="CHINESE" value="12387" />
+        <entry key="ENGLISH" value="12312" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
