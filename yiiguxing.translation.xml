@@ -2,6 +2,18 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="Allocation Unify Code Enum" />
+      <item value="Allocation" />
+      <item value="豪华版" />
+      <item value="标准版" />
+      <item value="舒适版" />
+      <item value="unify" />
+      <item value="统一" />
+      <item value="统一称呼" />
+      <item value="统称" />
+      <item value="Allocation Code" />
+      <item value="Allocation Code Enum" />
+      <item value="Enum" />
       <item value="Auto-generated catch block" />
       <item value="TODO Auto-generated catch block" />
       <item value="Cannot find declaration to go to" />
@@ -490,23 +502,11 @@
       <item value="ON SAVE" />
       <item value="IMMEDIATE" />
       <item value="Sessions flush mode. Determines when session changes are written to the session * store." />
-      <item value="Namespace for keys used to store sessions." />
-      <item value="cleanup Cron" />
-      <item value="Store Type" />
-      <item value="* Sessions flush mode. Determines when session changes are written to the session * store." />
-      <item value="/** * Sessions save mode. Determines how session changes are tracked and saved to the * session store. */" />
-      <item value="* Sessions save mode. Determines how session changes are tracked and saved to the * session store." />
-      <item value="set Map Name" />
-      <item value="最大session并发数" />
-      <item value="expired Session Strategy" />
-      <item value="max Sessions Prevents Login" />
-      <item value="session Management" />
-      <item value="maximum Sessions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12334" />
-        <entry key="ENGLISH" value="12254" />
+        <entry key="CHINESE" value="12347" />
+        <entry key="ENGLISH" value="12273" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
