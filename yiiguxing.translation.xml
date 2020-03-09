@@ -2,8 +2,13 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
-      <item value="iterate" />
+      <item value="Cannot resolve method 'getStoragePathIdentify' in 'CarAllocationInfo'" />
+      <item value="'Optional.get()' without 'isPresent()' check Inspection info: Reports Optional.get() method calls without an earlier check that the optional has a value. If the optional is empty, calling Optional.get() will throw an exception." />
+      <item value="'Optional.get()' without 'isPresent()' check" />
       <item value="storage Path Identify" />
+      <item value="Bad return type in lambda expression: String cannot be converted to AllocationUnifyCodeEnum" />
+      <item value="Binary Operator" />
+      <item value="iterate" />
       <item value="identify" />
       <item value="标识" />
       <item value="abbreviation" />
@@ -497,16 +502,11 @@
       <item value="bound Geo Ops" />
       <item value="ops For Hash" />
       <item value="ops For Cluster" />
-      <item value="kill Client" />
-      <item value="session Redis Operations" />
-      <item value="bound Set Ops" />
-      <item value="the operations performed on set values bound to the given key." />
-      <item value="set operations bound to the given key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12383" />
-        <entry key="ENGLISH" value="12308" />
+        <entry key="CHINESE" value="12385" />
+        <entry key="ENGLISH" value="12310" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
