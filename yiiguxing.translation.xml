@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="get Remote Upgrade Info" />
+      <item value="builder Remote Upgrade List" />
       <item value="upload Operation Result" />
       <item value="Update Control Info" />
       <item value="count By Car Type And Version NO" />
@@ -500,8 +502,6 @@
       <item value="Not injecting HSTS header since it did not match the requestMatcher org.springframework.security.web.header.writers.HstsHeaderWriter$SecureRequestMatcher@307cf96e" />
       <item value="Did not match any media types" />
       <item value="DefaultSavedRequest added to Session" />
-      <item value="Calling Authentication entry point." />
-      <item value="SecurityContext is empty or contents are anonymous - context will not be stored in HttpSession." />
     </histories>
     <option name="languageScores">
       <map>
