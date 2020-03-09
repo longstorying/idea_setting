@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="iterate" />
+      <item value="storage Path Identify" />
+      <item value="identify" />
+      <item value="标识" />
       <item value="abbreviation" />
       <item value="简称" />
       <item value="Update Control Info" />
@@ -227,7 +231,6 @@
       <item value="验证" />
       <item value="识别" />
       <item value="NONCE logo" />
-      <item value="标识" />
       <item value="contains To R Set Cache" />
       <item value="retain All" />
       <item value="add To R Set Cache" />
@@ -499,14 +502,11 @@
       <item value="bound Set Ops" />
       <item value="the operations performed on set values bound to the given key." />
       <item value="set operations bound to the given key" />
-      <item value="SPRING SECURITY CONTEXT" />
-      <item value="namespace" />
-      <item value="original Session Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12379" />
-        <entry key="ENGLISH" value="12304" />
+        <entry key="CHINESE" value="12383" />
+        <entry key="ENGLISH" value="12308" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
