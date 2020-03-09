@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="upload Operation Result" />
+      <item value="Update Control Info" />
       <item value="count By Car Type And Version NO" />
       <item value="allocation Codes Splice" />
       <item value="splice" />
@@ -25,7 +27,6 @@
       <item value="标识" />
       <item value="abbreviation" />
       <item value="简称" />
-      <item value="Update Control Info" />
       <item value="configuration Info" />
       <item value="control Infos" />
       <item value="d Iff Info" />
@@ -501,12 +502,11 @@
       <item value="DefaultSavedRequest added to Session" />
       <item value="Calling Authentication entry point." />
       <item value="SecurityContext is empty or contents are anonymous - context will not be stored in HttpSession." />
-      <item value="Default Saved Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12397" />
-        <entry key="ENGLISH" value="12322" />
+        <entry key="CHINESE" value="12401" />
+        <entry key="ENGLISH" value="12326" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
