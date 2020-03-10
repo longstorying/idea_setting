@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="shift" />
+      <item value="转变" />
+      <item value="trade" />
+      <item value="换" />
+      <item value="装换" />
+      <item value="Upload Vin Excel Result" />
       <item value="of Nullable" />
       <item value="vin Allocation Codes Check" />
       <item value="VIN码不正确或跟车型不匹配" />
@@ -496,17 +502,11 @@
       <item value="is Redirect" />
       <item value="location" />
       <item value="Chain processed normally" />
-      <item value="password does not match stored value" />
-      <item value="Service" />
-      <item value="result" />
-      <item value="send Redirect" />
-      <item value="Cannot call sendError() after the response has been committed" />
-      <item value="follow Ssl Redirects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12420" />
-        <entry key="ENGLISH" value="12346" />
+        <entry key="CHINESE" value="12425" />
+        <entry key="ENGLISH" value="12352" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
