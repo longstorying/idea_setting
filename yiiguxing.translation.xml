@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="Upload Result" />
+      <item value="update Upload" />
       <item value="shift" />
       <item value="转变" />
       <item value="trade" />
@@ -500,13 +502,11 @@
       <item value="content Type" />
       <item value="HTTP PERM REDIRECT" />
       <item value="is Redirect" />
-      <item value="location" />
-      <item value="Chain processed normally" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12425" />
-        <entry key="ENGLISH" value="12352" />
+        <entry key="CHINESE" value="12429" />
+        <entry key="ENGLISH" value="12356" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
