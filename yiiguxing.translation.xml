@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="record Download List" />
       <item value="获取升级包控件信息" />
       <item value="get Update Control Info" />
       <item value="get Remote Upgrade Info" />
@@ -501,7 +502,6 @@
       <item value="Unsupported response types: []" />
       <item value="Authorization Request Repository" />
       <item value="authorization Request Base Uri" />
-      <item value="Not injecting HSTS header since it did not match the requestMatcher org.springframework.security.web.header.writers.HstsHeaderWriter$SecureRequestMatcher@307cf96e" />
     </histories>
     <option name="languageScores">
       <map>
