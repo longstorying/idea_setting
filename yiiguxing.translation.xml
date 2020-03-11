@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="add Record Download" />
+      <item value="replace Add" />
+      <item value="record Download Speed" />
       <item value="Common part can be extracted removing branch" />
       <item value="'if' statement has empty body" />
       <item value="supplier" />
@@ -177,7 +180,6 @@
       <item value="ARRAY END" />
       <item value="OBJECT END" />
       <item value="download Before" />
-      <item value="add Record Download" />
       <item value="i Car Upgrade Record" />
       <item value="Class" />
       <item value="param Type" />
@@ -500,13 +502,11 @@
       <item value="peek Body" />
       <item value="sit" />
       <item value="active" />
-      <item value="profiles" />
-      <item value="跳转" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12432" />
-        <entry key="ENGLISH" value="12358" />
+        <entry key="CHINESE" value="12437" />
+        <entry key="ENGLISH" value="12363" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
