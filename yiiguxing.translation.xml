@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="Common part can be extracted removing branch" />
+      <item value="'if' statement has empty body" />
+      <item value="supplier" />
+      <item value="enumse" />
       <item value="Upload Result" />
       <item value="update Upload" />
       <item value="shift" />
@@ -63,7 +67,6 @@
       <item value="同一" />
       <item value="Allocation Unify Code" />
       <item value="Custom Exception" />
-      <item value="enumse" />
       <item value="is Parallel" />
       <item value="allocation Unify Code Enum" />
       <item value="for Each Ordered" />
@@ -499,14 +502,11 @@
       <item value="active" />
       <item value="profiles" />
       <item value="跳转" />
-      <item value="content Type" />
-      <item value="HTTP PERM REDIRECT" />
-      <item value="is Redirect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12429" />
-        <entry key="ENGLISH" value="12356" />
+        <entry key="CHINESE" value="12432" />
+        <entry key="ENGLISH" value="12358" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
@@ -520,7 +520,7 @@
         <entry key="SPANISH" value="37" />
         <entry key="HUNGARIAN" value="5" />
         <entry key="ITALIAN" value="24" />
-        <entry key="HINDI" value="4" />
+        <entry key="HINDI" value="5" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
