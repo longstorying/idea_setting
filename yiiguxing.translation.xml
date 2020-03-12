@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="Vin Allocation Codes Check Result" />
+      <item value="获取上传的Excel的Vin码" />
+      <item value="private" />
+      <item value="Override" />
+      <item value="Transactional" />
+      <item value="get Vin For Excel" />
       <item value="Required int parameter 'packageId' is not present" />
       <item value="Non-static method 'verifyPackageNameStyle(java.lang.String, java.lang.String, java.lang.String)' cannot be referenced from a static context" />
       <item value="any Match" />
@@ -45,7 +51,6 @@
       <item value="Atomic Reference" />
       <item value="Allocation Unify Code Enum" />
       <item value="get File Items" />
-      <item value="private" />
       <item value="Disk File Item Factory" />
       <item value="record Download List" />
       <item value="获取升级包控件信息" />
@@ -497,16 +502,11 @@
       <item value="Framework Endpoint" />
       <item value="Session Attributes" />
       <item value="AUTHORIZATION CODE" />
-      <item value="Flush Buffer Privileged Action" />
-      <item value="replace Login Url" />
-      <item value="Redirect Url Builder" />
-      <item value="get Login Form Url" />
-      <item value="determine Url To Use For This Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12459" />
-        <entry key="ENGLISH" value="12386" />
+        <entry key="CHINESE" value="12479" />
+        <entry key="ENGLISH" value="12406" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
