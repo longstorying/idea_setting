@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="Required int parameter 'packageId' is not present" />
+      <item value="Non-static method 'verifyPackageNameStyle(java.lang.String, java.lang.String, java.lang.String)' cannot be referenced from a static context" />
+      <item value="any Match" />
+      <item value="verify" />
+      <item value="验证" />
+      <item value="convert" />
+      <item value="转换" />
       <item value="version Style" />
       <item value="版本号" />
       <item value="car Type" />
@@ -37,7 +44,6 @@
       <item value="';' expected" />
       <item value="Atomic Reference" />
       <item value="Allocation Unify Code Enum" />
-      <item value="convert" />
       <item value="get File Items" />
       <item value="private" />
       <item value="Disk File Item Factory" />
@@ -286,8 +292,6 @@
       <item value="nonce to verify param" />
       <item value="参数" />
       <item value="nonce to verify" />
-      <item value="verify" />
-      <item value="验证" />
       <item value="识别" />
       <item value="NONCE logo" />
       <item value="contains To R Set Cache" />
@@ -498,15 +502,11 @@
       <item value="Redirect Url Builder" />
       <item value="get Login Form Url" />
       <item value="determine Url To Use For This Request" />
-      <item value="use Forward" />
-      <item value="commence" />
-      <item value="auth Exception" />
-      <item value="is Absolute Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12455" />
-        <entry key="ENGLISH" value="12382" />
+        <entry key="CHINESE" value="12459" />
+        <entry key="ENGLISH" value="12386" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
