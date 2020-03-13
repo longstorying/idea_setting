@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="make Ref" />
+      <item value="No value present" />
+      <item value="No Such Element Exception" />
       <item value="string Size" />
       <item value="Ones" />
       <item value="Tens" />
@@ -499,14 +502,11 @@
       <item value="scheme" />
       <item value="Uri Components Builder" />
       <item value="get Successful Redirect" />
-      <item value="generate Code" />
-      <item value="check For Pre Approval" />
-      <item value="implicit Lock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12491" />
-        <entry key="ENGLISH" value="12418" />
+        <entry key="CHINESE" value="12494" />
+        <entry key="ENGLISH" value="12421" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
