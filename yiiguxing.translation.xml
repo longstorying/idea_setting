@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="Enhancer By Spring CGLIB" />
       <item value="make Ref" />
       <item value="No value present" />
       <item value="No Such Element Exception" />
@@ -501,12 +502,11 @@
       <item value="set Redirect Uri" />
       <item value="scheme" />
       <item value="Uri Components Builder" />
-      <item value="get Successful Redirect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12494" />
-        <entry key="ENGLISH" value="12421" />
+        <entry key="CHINESE" value="12495" />
+        <entry key="ENGLISH" value="12422" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
