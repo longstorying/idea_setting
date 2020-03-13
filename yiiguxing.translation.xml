@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="changeisdownloadprior" />
       <item value="parse To Allocation Codes" />
       <item value="parse" />
       <item value="解析" />
@@ -501,12 +502,11 @@
       <item value="is Debug Enabled" />
       <item value="AUTHORIZATION REQUEST ATTR NAME" />
       <item value="set Redirect Uri" />
-      <item value="scheme" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12500" />
-        <entry key="ENGLISH" value="12427" />
+        <entry key="CHINESE" value="12502" />
+        <entry key="ENGLISH" value="12429" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
