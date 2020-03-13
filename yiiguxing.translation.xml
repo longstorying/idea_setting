@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="parse To Allocation Codes" />
+      <item value="parse" />
+      <item value="解析" />
       <item value="get Identical Car Type" />
       <item value="Enhancer By Spring CGLIB" />
       <item value="make Ref" />
@@ -248,8 +251,6 @@
       <item value="API NOT EXIST" />
       <item value="validation Url" />
       <item value="api Certification Enable" />
-      <item value="parse" />
-      <item value="解析" />
       <item value="Api Response Enum" />
       <item value="实体" />
       <item value="Openservice Service Market Get Car Bind Info" />
@@ -501,12 +502,11 @@
       <item value="AUTHORIZATION REQUEST ATTR NAME" />
       <item value="set Redirect Uri" />
       <item value="scheme" />
-      <item value="Uri Components Builder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12496" />
-        <entry key="ENGLISH" value="12423" />
+        <entry key="CHINESE" value="12500" />
+        <entry key="ENGLISH" value="12427" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
