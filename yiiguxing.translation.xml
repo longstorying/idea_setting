@@ -2,6 +2,20 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="ignore Unknown" />
+      <item value="_ignore Unknown" />
+      <item value="Json Ignore Properties" />
+      <item value="USE DEFAULTS" />
+      <item value="NON DEFAULT" />
+      <item value="NON EMPTY" />
+      <item value="NON ABSENT" />
+      <item value="NON NULL" />
+      <item value="ALWAYS" />
+      <item value="Include" />
+      <item value="Json Include" />
+      <item value="Unrecognized field &quot;enumNames&quot;" />
+      <item value="not marked as ignorable" />
+      <item value="properties" />
       <item value="changeisdownloadprior" />
       <item value="parse To Allocation Codes" />
       <item value="parse" />
@@ -488,29 +502,15 @@
       <item value="approval View" />
       <item value="method Name" />
       <item value="Request Context Holder" />
-      <item value="set Expose Path Variables" />
-      <item value="expose Model Attributes" />
-      <item value="http 10 Compatible" />
-      <item value="context Relative" />
-      <item value="Aspect" />
-      <item value="pointcut" />
-      <item value="approve Or Deny" />
-      <item value="public View approveOrDeny(@RequestParam Map&lt;String, String&gt; approvalParameters, Map&lt;String, ?&gt; model," />
-      <item value="Redirect View" />
-      <item value="Model And View" />
-      <item value="user Approval Page" />
-      <item value="is Debug Enabled" />
-      <item value="AUTHORIZATION REQUEST ATTR NAME" />
-      <item value="set Redirect Uri" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12502" />
-        <entry key="ENGLISH" value="12429" />
+        <entry key="CHINESE" value="12518" />
+        <entry key="ENGLISH" value="12439" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
-        <entry key="FRENCH" value="223" />
+        <entry key="FRENCH" value="225" />
         <entry key="FINNISH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="MALAY" value="4" />
@@ -519,7 +519,7 @@
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="37" />
         <entry key="HUNGARIAN" value="5" />
-        <entry key="ITALIAN" value="24" />
+        <entry key="ITALIAN" value="28" />
         <entry key="HINDI" value="5" />
         <entry key="VIETNAMESE" value="1" />
       </map>
