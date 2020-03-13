@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="get Identical Car Type" />
       <item value="Enhancer By Spring CGLIB" />
       <item value="make Ref" />
       <item value="No value present" />
@@ -101,7 +102,6 @@
       <item value="control Infos" />
       <item value="d Iff Info" />
       <item value="ivid Iff Info" />
-      <item value="get Identical Car Type" />
       <item value="is Identical Car Type" />
       <item value="identical" />
       <item value="同一" />
@@ -505,8 +505,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12495" />
-        <entry key="ENGLISH" value="12422" />
+        <entry key="CHINESE" value="12496" />
+        <entry key="ENGLISH" value="12423" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
