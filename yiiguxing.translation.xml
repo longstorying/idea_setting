@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="1 restore sql from selection - ==&gt; SELECT * FROM remote_upgrade_publishment WHERE publish_state != 4 and id = 10;" />
       <item value="push Car Number" />
       <item value="推送" />
       <item value="之前上传的Excel信息不存在" />
@@ -501,12 +502,11 @@
       <item value="Handler Method" />
       <item value="Content type 'application/json' not supported" />
       <item value="Hostname leap-service-uat.leapmotor.com not verified" />
-      <item value="render" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12527" />
-        <entry key="ENGLISH" value="12449" />
+        <entry key="CHINESE" value="12528" />
+        <entry key="ENGLISH" value="12450" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
