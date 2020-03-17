@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="save To Excel Check Result" />
+      <item value="check Vin Excel" />
+      <item value="checkout" />
+      <item value="检验" />
       <item value="ignore Unknown" />
       <item value="_ignore Unknown" />
       <item value="Json Ignore Properties" />
@@ -498,15 +502,11 @@
       <item value="get Content Type" />
       <item value="header Names" />
       <item value="o K Http Response" />
-      <item value="最终" />
-      <item value="approval View" />
-      <item value="method Name" />
-      <item value="Request Context Holder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12518" />
-        <entry key="ENGLISH" value="12439" />
+        <entry key="CHINESE" value="12523" />
+        <entry key="ENGLISH" value="12444" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
