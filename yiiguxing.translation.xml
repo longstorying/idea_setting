@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="push Car Number" />
+      <item value="推送" />
+      <item value="之前上传的Excel信息不存在" />
       <item value="save To Excel Check Result" />
       <item value="check Vin Excel" />
       <item value="checkout" />
@@ -499,14 +502,11 @@
       <item value="Content type 'application/json' not supported" />
       <item value="Hostname leap-service-uat.leapmotor.com not verified" />
       <item value="render" />
-      <item value="get Content Type" />
-      <item value="header Names" />
-      <item value="o K Http Response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12523" />
-        <entry key="ENGLISH" value="12444" />
+        <entry key="CHINESE" value="12527" />
+        <entry key="ENGLISH" value="12449" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
