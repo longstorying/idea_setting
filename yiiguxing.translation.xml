@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="SELECT car_vin, car_plate_number FROM remote_upgrade_car_info WHERE remote_upgrade_id = ? AND state = ?" />
+      <item value="下载服务初始化分配" />
+      <item value="Starting ProtocolHandler [&quot;http-nio-18222&quot;]" />
+      <item value="Using a shared selector for servlet write/read" />
+      <item value="2020-03-17 16:46:32 JRebel: Directory 'D:\leapmotor\RemoteUpgrade\target\classes' will be monitored for changes" />
       <item value="1 restore sql from selection - ==&gt; SELECT * FROM remote_upgrade_publishment WHERE publish_state != 4 and id = 10;" />
       <item value="push Car Number" />
       <item value="推送" />
@@ -497,16 +502,11 @@
       <item value="UNAME TO ACCESS" />
       <item value="AUTH TO ACCESS" />
       <item value="get Handler Internal" />
-      <item value="handle No Match" />
-      <item value="Security Context Persistence Filter" />
-      <item value="Handler Method" />
-      <item value="Content type 'application/json' not supported" />
-      <item value="Hostname leap-service-uat.leapmotor.com not verified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12528" />
-        <entry key="ENGLISH" value="12450" />
+        <entry key="CHINESE" value="12533" />
+        <entry key="ENGLISH" value="12455" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
