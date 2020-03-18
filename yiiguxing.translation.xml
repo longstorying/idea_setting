@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="Intermediate" />
       <item value="SELECT car_vin, car_plate_number FROM remote_upgrade_car_info WHERE remote_upgrade_id = ? AND state = ?" />
       <item value="下载服务初始化分配" />
       <item value="Starting ProtocolHandler [&quot;http-nio-18222&quot;]" />
@@ -501,12 +502,11 @@
       <item value="authentication" />
       <item value="UNAME TO ACCESS" />
       <item value="AUTH TO ACCESS" />
-      <item value="get Handler Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12533" />
-        <entry key="ENGLISH" value="12455" />
+        <entry key="CHINESE" value="12538" />
+        <entry key="ENGLISH" value="12460" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
