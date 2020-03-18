@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="verify Package Name Allocation" />
+      <item value="none Match" />
+      <item value="verify Package Name Style" />
       <item value="DEBUG" />
       <item value="INFO" />
       <item value="delete Invalid" />
@@ -499,14 +502,11 @@
       <item value="Security Context Logout Handler" />
       <item value="custom Logout Success" />
       <item value="delete Cookies" />
-      <item value="logout Url" />
-      <item value="logout" />
-      <item value="login Page" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12551" />
-        <entry key="ENGLISH" value="12473" />
+        <entry key="CHINESE" value="12559" />
+        <entry key="ENGLISH" value="12481" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
