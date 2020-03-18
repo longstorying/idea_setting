@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="progress" />
+      <item value="add Record Download" />
       <item value="Intermediate" />
       <item value="SELECT car_vin, car_plate_number FROM remote_upgrade_car_info WHERE remote_upgrade_id = ? AND state = ?" />
       <item value="下载服务初始化分配" />
@@ -75,7 +77,6 @@
       <item value="verify Current State" />
       <item value="WAIT PUBLISH" />
       <item value="change To Next State" />
-      <item value="add Record Download" />
       <item value="replace Add" />
       <item value="record Download Speed" />
       <item value="Common part can be extracted removing branch" />
@@ -501,12 +502,11 @@
       <item value="s Rem" />
       <item value="authentication" />
       <item value="UNAME TO ACCESS" />
-      <item value="AUTH TO ACCESS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12538" />
-        <entry key="ENGLISH" value="12460" />
+        <entry key="CHINESE" value="12540" />
+        <entry key="ENGLISH" value="12462" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
