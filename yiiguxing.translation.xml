@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="DEBUG" />
+      <item value="INFO" />
       <item value="delete Invalid" />
       <item value="is All Download" />
       <item value="is Adopt" />
@@ -500,13 +502,11 @@
       <item value="logout Url" />
       <item value="logout" />
       <item value="login Page" />
-      <item value="form Login" />
-      <item value="List of cookies cannot be null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12549" />
-        <entry key="ENGLISH" value="12471" />
+        <entry key="CHINESE" value="12551" />
+        <entry key="ENGLISH" value="12473" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
