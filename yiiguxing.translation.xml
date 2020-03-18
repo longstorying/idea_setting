@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
     <histories>
+      <item value="down Update File Back Info" />
+      <item value="Download Progress Manage" />
       <item value="progress" />
       <item value="add Record Download" />
       <item value="Intermediate" />
@@ -500,13 +502,11 @@
       <item value="invalidate Http Session" />
       <item value="Remove given {@code values} from set at {@code key} and return the number of removed elements." />
       <item value="s Rem" />
-      <item value="authentication" />
-      <item value="UNAME TO ACCESS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12540" />
-        <entry key="ENGLISH" value="12462" />
+        <entry key="CHINESE" value="12542" />
+        <entry key="ENGLISH" value="12464" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="30" />
